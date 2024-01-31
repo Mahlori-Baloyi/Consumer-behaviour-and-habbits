@@ -1,0 +1,21 @@
+
+
+Customers distribution
+
+Findings: The customer base is evenly spread across age groups, with a majority in the 50 to 60 years old range. 
+#Use Visualisations.
+
+
+Gender: There are more males than females. You may use 
+#Use text and Some attentive attribute to show this.
+
+
+Implications: Target marketing strategies to appeal to the preferences of the slightly older demographic. 
+#Such as ...
+
+Consider efforts to attract a more balanced gender distribution.
+#Such as ... We can you chat gpt to find ways to attract more female customers.
+
+
+
+
