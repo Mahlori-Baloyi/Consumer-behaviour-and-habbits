@@ -1,7 +1,8 @@
 # Consumer-behaviour-and-habbits
-Context:
 
-The Consumer Behavior and Shopping Habits Dataset provides comprehensive insights into consumers' preferences, tendencies, and patterns during their shopping experiences. This dataset encompasses a diverse range of variables, including demographic information, purchase history, product preferences, shopping frequency, and online/offline shopping behavior. With this rich collection of data, analysts and researchers can delve into the intricacies of consumer decision-making processes, aiding businesses in crafting targeted marketing strategies, optimizing product offerings, and enhancing overall customer satisfaction.
+Actual code
+
+To access the actual code, go to #notebook and then open Cutomer_behaviour.ipynb
 
 Content:
 
